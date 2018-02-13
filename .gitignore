@@ -1,0 +1,10 @@
+generator/runtime/
+service/runtime/
+console/runtime/
+swoole.log
+composer.lock
+vendor/
+.idea/*
+service/runtime
+console/runtime
+*.log
